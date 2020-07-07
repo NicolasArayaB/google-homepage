@@ -1,0 +1,95 @@
+#hplogo{
+    position: absolute;
+    left: 540px;
+    top: 160px;
+}
+
+#srcbar{
+    position: absolute;
+    left: 400px;
+    top: 280px;
+    height: 45px;
+    width: 40%;
+    border-color: rgb(207, 205, 205);
+    border-width: 0.3px;
+    border-radius: 45px;
+}
+
+.boton{
+    position: relative;
+    left: 525px;
+    top: 340px;
+    color: rgb(88, 87, 87);
+    background-color: rgb(228, 226, 226);
+    height: 36px;
+    width: 150px;
+    border: 1px solid rgb(218, 214, 214);
+    border-radius: 4px;
+}
+
+#english{
+    position: absolute;
+    left: 580px;
+    top: 400px;
+    font-size: 11px;    
+}
+a{
+   text-decoration: none;
+}
+#box{
+    
+}
+#footer{
+    padding: 10px;
+    height: 80px;
+    background-color: rgb(243, 240, 240);
+    color: gray;
+    position: relative;
+    top: 510px;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+}
+.link{
+    color: gray;
+    margin-left: 15px;
+    text-align: center;
+}
+.headerlink{
+    color: rgb(88, 88, 88);
+    float: right;
+    margin: 5px;
+    font-size: 12px;
+}
+li{
+    display: inline;
+}
+#singin{
+    border: 1px solid #4285f4;
+    background-color: #4285f4;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    border-radius: 2px;    
+    padding: 0 12px;
+    line-height: 28px;
+    white-space: nowrap;
+    font-size: 13px;
+    margin-top: 0px;
+}
+#app{
+    height: 20px;
+}
+
+#derecha{
+    float: right;
+}
+
+#izquierda{
+    float: left;
+    margin-top: 5px;
+}
+
+#arriba{
+    margin-left: 15px;
+}
+
